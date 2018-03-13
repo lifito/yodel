@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lifito.github.io/yodel/sitemap.xml
